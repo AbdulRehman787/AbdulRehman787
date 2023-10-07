@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulRehman787
 - 👀 I’m interested in  Software Developer
 - 🌱 I’m currently learning Next J's / Phython ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : a.rehman78766@gmail.com
 
 <!---
